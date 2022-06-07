@@ -1,0 +1,21 @@
+
+.bodylogin{
+	background-color: sandybrown;
+}
+.bodymenu{
+	background-color: #808080;
+}
+.form-group{
+    padding: 10px;
+}
+h1{
+	color: ghostwhite;
+	font-size: 60px;
+    text-align: center;
+}
+.telainicial{
+	margin-left: 500px;
+}
+#btnentrar{
+	margin-left: 110px;
+}
