@@ -1,0 +1,107 @@
+
+.bodylogin{
+	background-color: sandybrown;
+}
+.bodymenu{
+	background-color: #808080;
+}
+.bodyListaCadastro{
+
+}
+.form-group{
+    padding: 10px;
+}
+.menu{
+
+}
+h1{
+	color: ghostwhite;
+	font-size: 60px;
+    text-align: center;
+}
+.telainicial{
+	margin-left: 500px;
+}
+#lbnome{
+	font-size: 40px;
+    margin-top: 10px; 
+	margin-left: 40px;
+
+}
+
+#inpnome{
+	font-size: 20px;
+	margin-top: 10px; 
+	margin-left: 75px;
+
+}
+#lbassunto{
+	font-size: 40px;
+	margin-top: 10px; 
+	margin-left: 40px;
+
+}
+#inpassunto{
+	font-size: 20px;
+	margin-top: 10px; 
+	margin-left: 40px;
+
+}
+#lbautor{
+	font-size: 40px;
+	margin-top: 10px; 
+	margin-left: 40px;
+
+}
+#inpautor{
+	font-size: 20px;
+	margin-top: 10px; 
+	margin-left: 77px;
+
+}
+#lbpalavraChave{
+	font-size: 40px;
+	margin-top: 10px; 
+	margin-left: 0px;
+
+}
+#inppalavraChave{
+	font-size: 20px;
+	margin-top: 10px; 
+	margin-left: 0px;
+
+}
+#nome{
+	margin: 10px;
+	padding: 0px;
+	
+
+}
+#assunto{
+    margin: 10px;
+	padding: 0px;
+}
+#autor{
+	margin: 10px;
+	padding: 0px;
+
+}
+#palavraChave{
+	margin: 10px;
+	padding: 0px;
+
+}
+#btnentrar{
+	margin-left: 110px;
+}
+#btnconsCad{
+	margin-top: 10px;
+	font-size: 40px;
+}
+#btnCadastrar{
+	margin-left: 400px;
+	font-size: 40px;
+}
+#titleListaCadastro{
+	color: blueviolet;
+}
